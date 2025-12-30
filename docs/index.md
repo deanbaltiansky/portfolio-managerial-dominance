@@ -8,11 +8,9 @@ output:
 
 # Problem
 
-<div style="overflow:auto;">
+<div style="display:flex; align-items:flex-start; gap:1.25em; margin:1em 0;">
 
-<img src="assets/aggressive-manager.png" 
-     alt="Aggressive manager at work" 
-     style="float:right; width:auto; height:auto; max-width:375px; margin:0 0 0.25em 1em;">
+  <div style="flex:1;">
 
 Managers sometimes behave **dominantly** toward employees, using threats, coercion, or an aggressive tone in an attempt to exert influence. In many cases, this behavior is not intended to harm relationships. Rather, it reflects an instrumental choice: dominance is used because it is believed to be effective.
 
@@ -22,13 +20,20 @@ I propose that managers’ **beliefs** about the relational impact of dominance 
 
 I distinguish between three potential drivers of dominant behavior:
 
-  1. **Influence expectancies**: beliefs about whether dominance will increase *compliance*.
-  2. **Relationship motivations**: the extent to which managers *care* about their relationships with employees.
-  3. **Relationship expectancies**: beliefs about the *relationship impact* of dominant behavior.
+1. **Influence expectancies**: beliefs about whether dominance will increase *compliance*.
+2. **Relationship motivations**: the extent to which managers *care* about their relationships with employees.
+3. **Relationship expectancies**: beliefs about the *relationship impact* of dominant behavior.
 
 These situation-specific beliefs do not operate in a vacuum. I trace relationship expectancies back to a broader social mental model: **competitive worldview**—the belief that the social world is a constant battle for status and resources. Managers with a competitive worldview are more likely to view dominance as **normal, acceptable, and unobjectionable**, and therefore to expect limited relationship harm. In turn, these expectations increase the likelihood that they will behave dominantly.
 
+  </div>
+
+  <img src="assets/aggressive-manager.png"
+       alt="Aggressive manager at work"
+       style="max-width:375px; width:100%; height:auto; flex-shrink:0;">
+
 </div>
+
 
 # Executive summary
 
