@@ -8,6 +8,12 @@ output:
 
 # Problem
 
+<div style="overflow:auto;">
+
+<img src="assets/aggressive-manager.png" 
+     alt="Aggressive manager at work" 
+     style="float:right; width:auto; height:auto; max-width:375px; margin:0 0 0.25em 1em;">
+
 Managers sometimes behave **dominantly** toward employees, using threats, coercion, or an aggressive tone in an attempt to exert influence. In many cases, this behavior is not intended to harm relationships. Rather, it reflects an instrumental choice: dominance is used because it is believed to be effective.
 
 Yet dominant behavior can carry **relationship costs**, including reduced trust, liking, and respect. Despite these risks, managers vary widely in their willingness to use dominance. This raises a practical question for organizations: **why do some managers rely on dominant tactics, even when it may lead to strenuous relationships between them and their employees?**
@@ -21,6 +27,8 @@ I distinguish between three potential drivers of dominant behavior:
   3. **Relationship expectancies**: beliefs about the *relationship impact* of dominant behavior.
 
 These situation-specific beliefs do not operate in a vacuum. I trace relationship expectancies back to a broader social mental model: **competitive worldview**—the belief that the social world is a constant battle for status and resources. Managers with a competitive worldview are more likely to view dominance as **normal, acceptable, and unobjectionable**, and therefore to expect limited relationship harm. In turn, these expectations increase the likelihood that they will behave dominantly.
+
+</div>
 
 # Executive summary
 
