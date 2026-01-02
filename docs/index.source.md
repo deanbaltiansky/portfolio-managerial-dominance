@@ -11,7 +11,7 @@ output:
 
 <div style="display:flex; align-items:flex-start; gap:1.25em; margin:1em 0;">
 
-  <div style="flex:1;">
+  <div style="flex:1; min-width:0;">
 
 Managers sometimes behave **dominantly** toward employees, using threats, coercion, or an aggressive tone in an attempt to exert influence. In many cases, this behavior is not intended to harm relationships. Rather, it reflects an instrumental choice: dominance is used because it is believed to be effective.
 
@@ -31,7 +31,7 @@ These situation-specific beliefs do not operate in a vacuum. I trace relationshi
 
   <img src="assets/aggressive_manager.png"
        alt="Aggressive manager at work"
-       style="max-width:375px; width:100%; height:auto; flex-shrink:0;">
+       style="max-width:375px; width:100%; height:auto; flex:0 1 375px;">
 
 </div>
 
@@ -505,7 +505,6 @@ This phase captures a "ground truth" of compliance (task completion) and relatio
 
 </div>
 
-</div>
 
 ```
 
@@ -547,8 +546,6 @@ Additionally, managers' competitive worldview was positively associated with the
 
 </div>
 
-</div>
-
 ```
 
 
@@ -573,8 +570,8 @@ I ran the same comparison for predicted nomination to a paid “good manager” 
 
 In sum, across both operationalizations, managers **high in competitive worldview consistently overestimated the relational consequences of sending the dominant message**. The patterns for managers with low and medium competitive worldview were mixed.
 
-<div style="width:100%; max-width:100%; overflow:hidden;">
-  <img src="assets/s3-jn.png" style="max-width:100%; height:auto; display:block;">
+<div style="flex: 1 1 0; min-width:0; max-width: 900px; margin: 0 auto;">
+  <img src="assets/s3-jn.png" style="width:100%; height:auto; display:block; max-width:100%;">
 </div>
 
 ## Crowd-sourced dominance
