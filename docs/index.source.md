@@ -628,7 +628,7 @@ This insight points to a set of **low-cost, high-leverage interventions**:
 
 Over time, reducing this relational blind spot should lead to **higher employee satisfaction, stronger manager–employee collaboration, and better material outcomes**. Importantly, this does not necessitate making managers “nicer,” but helping them make more accurate judgments about how their behavior lands with their employees.
 
-# References and supplemental information
+# Open materials
 
 Analysis scripts, de-identified data, measures, materials, supplemental material, and preregistrations are posted on the project's <a href="https://osf.io/rjv3q/?view_only=4121fb8334184631956be1dda1dd4ad6" target="_blank">Open Science Framework Page</a>
 
