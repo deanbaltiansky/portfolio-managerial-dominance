@@ -7,6 +7,8 @@ output:
     toc: false
 ---
 
+This project was conducted in collaboration with <a href="https://business.columbia.edu/faculty/people/daniel-ames" target="_blank">Prof. Daniel Ames</a>
+
 # Problem
 
 <div style="display:flex; align-items:flex-start; gap:1.25em; margin:1em 0;">
@@ -67,7 +69,7 @@ A third challenge is whether stated intentions reflect how managers behave when 
 
 **Establishing a causal effect**
 
-Finally, correlational evidence cannot fully establish whether relationship expectancies *lead to* dominant behavior. In Study 4, I address this by experimentally manipulating relationship expectancies and measures subsequent dominance choices.
+Finally, correlational evidence cannot fully establish whether relationship expectancies *lead to* dominant behavior. In **Study 4**, I address this by experimentally manipulating relationship expectancies and measures subsequent dominance choices.
 
 # Study 1: The unique roles of relationship expectancies and competitive worldview
 
@@ -625,3 +627,9 @@ This insight points to a set of **low-cost, high-leverage interventions**:
     Because these interventions do not require redesigning incentives, flattening hierarchies, or retraining managers from scratch, they are scalable and inexpensive relative to their impact.
 
 Over time, reducing this relational blind spot should lead to **higher employee satisfaction, stronger manager–employee collaboration, and better material outcomes**. Importantly, this does not necessitate making managers “nicer,” but helping them make more accurate judgments about how their behavior lands with their employees.
+
+# References and supplemental information
+
+Analysis scripts, de-identified data, measures, materials, supplemental material, and preregistrations are posted on the project's <a href="https://osf.io/rjv3q/?view_only=4121fb8334184631956be1dda1dd4ad6" target="_blank">Open Science Framework Page</a>
+
+For the project github page, see: <a href="https://github.com/deanbaltiansky/dominance-in-the-competitive-jungle" target="_blank">https://github.com/deanbaltiansky/dominance-in-the-competitive-jungle</a>
