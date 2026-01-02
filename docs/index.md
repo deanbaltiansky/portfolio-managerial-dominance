@@ -2,9 +2,9 @@
 title: "Explaining Managerial Dominance: The Role of Relationship Expectancies"
 output:
   html_document:
-    self_contained: true
-    md_extensions: +raw_html
-always_allow_html: true
+    self_contained: false
+    keep_md: false
+    toc: false
 ---
 
 # Problem
@@ -67,7 +67,7 @@ A third challenge is whether stated intentions reflect how managers behave when 
 
 **Establishing a causal effect**
 
-Finally, correlational evidence cannot fully establish whether relationship expectancies *lead to* dominant behavior. I address this in a separate experiment that directly manipulates relationship expectancies and measures subsequent dominance choices, described in a companion A/B testing report (see LINK).
+Finally, correlational evidence cannot fully establish whether relationship expectancies *lead to* dominant behavior. In Study 4, I address this by experimentally manipulating relationship expectancies and measures subsequent dominance choices.
 
 # Study 1: The unique roles of relationship expectancies and competitive worldview
 
@@ -150,38 +150,7 @@ Additionally, controlling for the same mental models and demographics, **competi
 
 ### Step 3: Relationship expectancies explain the effect
 
-<!--html_preserve-->
-<div style="display:flex; gap:24px; align-items:flex-start; margin-top:24px;">
-
-  <!-- LEFT: Text (30%) -->
-  <div style="flex:0.3; min-width:260px;">
-
-    <p>
-      To test which beliefs explain the link between competitive worldview and dominance,
-      I entered <strong>relationship</strong> and <strong>influence</strong> expectancies
-      as simultaneous mediators.
-    </p>
-
-    <ul>
-      <li><strong>Relationship expectancies account for 41.1%</strong> of the total effect</li>
-      <li><strong>Influence expectancies account for only 4.8%</strong></li>
-    </ul>
-
-    <p>
-      This indicates that dominance is driven primarily by predicted
-      <strong>relationship</strong> harm from dominance,
-      rather than its predicted impact on <strong>influence</strong>.
-    </p>
-
-  </div>
-
-  <!-- RIGHT: Figure (70%) -->
-  <div style="flex:0.7; min-width:320px;">
-    <img src="assets/s1-mediation.png" style="width:100%; height:auto;">
-  </div>
-
-</div>
-<!--/html_preserve-->
+preserveef275e3a0e8ffa72
 
 
 <div style="margin-top: 0;">
@@ -373,34 +342,7 @@ Competitive worldview significantly predicted participants’ willingness to beh
 
 In addition, participants with a more competitive worldview were more likely to perceive the manager’s dominant behavior as having a positive relationship impact, rather than relational harm ($\hat{\beta}$ = 0.32, 95% CI = [0.18, 0.45], *p* < .001).
 
-<!--html_preserve-->
-<div style="display:flex; gap:24px; align-items:flex-start; margin-top:24px;">
-
-  <!-- LEFT: Text (30%) -->
-  <div style="flex:0.3; min-width:260px;">
-
-    <p>
-      To directly compare the two competing explanations, I conducted a bootstrapped random-effects mediation model, clustered by scenario, with relationship expectancies and compliance expectancies entered as simultaneous mediators.
-    </p>
-
-    <ul>
-      <li><strong>81.6% of the total effect was explained by relationship expectancies</strong> (beta = 0.11, 95% CI = [0.05, 0.17], p = .001)</li>
-      <li>By contrast, compliance expectancies <strong>did not explain</strong> a meaningful portion of the effect (beta = −0.01, 95% CI = [−0.03, 0.02], p = .579)</li>
-    </ul>
-
-    <p>
-      This provides further evidence, with descriptions of real-world managerial dominance, that the effect of competitive worldview on behavioral intentions of dominance is primarily explained by <strong>relationship, rather than compliance, expectancies</strong>.
-    </p>
-
-  </div>
-
-  <!-- RIGHT: Figure (70%) -->
-  <div style="flex:0.7; min-width:320px;">
-    <img src="assets/s2-mediation.png" style="width:100%; height:auto;">
-  </div>
-
-</div>
-<!--/html_preserve-->
+preserve2b86901a5b31f961
 
 Together, Study 2 demonstrates that the patterns identified in abstract survey measures extend to **reactions to real managerial behavior** from the employee's perspective. When people encounter **concrete instances of dominance**, competitive worldview predicts both a greater willingness to behave dominantly and a systematic tendency to view dominant behavior as less relationally harmful. Again, the expected impact on **relationships** explains the intent to behave dominantly over and above the expected impact on **compliance**.
 
@@ -466,44 +408,7 @@ This phase captures a "ground truth" of compliance (task completion) and relatio
 
 ### The task
 
-<!--html_preserve-->
-<div style="display:flex; gap:24px; align-items:flex-start; margin-top:18px;">
-
-  <!-- LEFT: Text (40%) -->
-  <div style="flex:0.4; min-width:320px;">
-
-    <p>
-      The purpose of the task was to measure <strong>compliance</strong>. Accordingly, it was designed
-      to be effort-based rather than skill-based, and to allow participants to opt out or disengage
-      (e.g., by randomly guessing) at any point.
-    </p>
-
-    <p>
-      The task was framed as an image-categorization job intended to generate training data for an
-      AI image classifier.
-    </p>
-
-    <ul>
-      <li>Each round included 20 shapes and a simple rule (e.g., “select shapes with six sides”).</li>
-      <li>10 shapes matched the rule; 10 did not.</li>
-      <li>Correct selections earned 1 point; incorrect selections deducted 1 point.</li>
-      <li>Final scores ranged from 0 to 50 points.</li>
-    </ul>
-
-    <p>
-      Each point earned by the employee translated directly into money for the manager (4 cents per point),
-      creating a direct incentive for managers to motivate effort.
-    </p>
-
-  </div>
-
-  <!-- RIGHT: Image (60%) -->
-  <div style="flex:0.6; min-width:320px;">
-    <img src="assets/task-example.png" style="width:100%; height:auto;">
-  </div>
-
-</div>
-<!--/html_preserve-->
+preservec9f7a6aef1372bfc
 
 ### Messages: Operationalizing dominance
 
@@ -524,29 +429,7 @@ Consistent with Studies 1 and 2, a logistic regression shows that managers' comp
 
 Additionally, managers' competitive worldview was positively associated with the predicted impact of sending the dominant message on their relationship with their employee; shown both with the expected attitude operationalization of relationship expectancy (*b* = .42, *t*(280) = 3.68, 95% CI = [0.20, 0.64], *p* < .001) and the expected nomination for the "good manager" survey (logit: *b* = .63, *t*(280) = 4.08, 95% CI = [0.33, 0.94], *p* < .001).
 
-<!--html_preserve-->
-<div style="display:flex; gap:24px; align-items:flex-start; margin-top:24px;">
-
-  <!-- LEFT: Text (30%) -->
-  <div style="flex:0.3; min-width:260px;">
-
-    <p>
-      To test whether <strong>relationship expectancies</strong>, as opposed to <strong>compliance expectancies</strong>, explain why competitive worldview predicts dominant behavior, I conducted a set of bootstrapped simultaneous mediation analyses. Consistent with Studies 1 and 2, <strong>the indirect effect of relationship expectancy explained 23% of the total effect</strong> (b = 0.02, 95% CI = [0.01, 0.05], p = .027), whereas the indirect effect of compliance expectancy did not explain any of the total effect (b = -0.005, 95% CI = [-.02, 0.01], p = .539).
-    </p>
-
-    <p>
-      This result is particularly striking given the <strong>incentive structure of the experiment</strong>. Although managers’ bonuses depended entirely on employee compliance, and there was no ongoing relationship or future interaction, <strong>relationship expectancies, not compliance expectancies, explained dominant message choice</strong>. Even when material outcomes were salient, managers’ beliefs about how dominance would affect the relationship carried more weight than its expected impact on performance.
-    </p>
-
-  </div>
-
-  <!-- RIGHT: Figure (70%) -->
-  <div style="flex:0.7; min-width:320px;">
-    <img src="assets/s3-mediation.png" style="width:100%; height:auto;">
-  </div>
-
-</div>
-<!--/html_preserve-->
+preserve69940483b0804c67
 
 ## Comparison to ground truth
 
