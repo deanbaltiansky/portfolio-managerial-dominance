@@ -1,5 +1,5 @@
 ---
-title: "Explaining Managerial Dominance: The Role of Relationship Expectancies"
+title: "Diagnosing a Relational Blind Spot in Managerial Behavior"
 output:
   html_document:
     self_contained: false
