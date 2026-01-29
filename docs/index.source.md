@@ -9,6 +9,8 @@ output:
 
 This project was conducted in collaboration with <a href="https://business.columbia.edu/faculty/people/daniel-ames" target="_blank">Prof. Daniel Ames</a>
 
+It was published in the *Journal of Experimental Social Psychology* (see <a href="https://deanbaltiansky.com/assets/baltiansky-ames_dominance-through-the-lens-of-a-competitive-worldview.pdf" target="_blank">PDF</a>)
+
 # Problem
 
 <div style="display:flex; align-items:flex-start; gap:1.25em; margin:1em 0;">
